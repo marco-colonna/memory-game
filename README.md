@@ -18,4 +18,4 @@ TODO: TASM and DOSBox guide
 
 Additional development of this project will be slow as it was created for a course I have now completed.
 
-I would like to use this project to stay familiar with assembly language by adding features and changes periodicly.
+I would like to use this project to stay familiar with assembly language by adding features and changes periodically.
