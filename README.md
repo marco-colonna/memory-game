@@ -16,7 +16,7 @@ and they remain face up. Don't waste a turn!
 
 This program was created for the final project in my Computer Logic Design and Assembly Language course.
 
-replication
+Inspired by this project, [python-memory](https://github.com/marco-colonna/python-memory) is a replication of this program in Python.
 
 ## Installation
 
